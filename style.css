@@ -1,0 +1,257 @@
+body {
+    overflow-x: hidden;
+}
+
+div.text > p {
+    text-align:center;
+    font-size:30px;
+    margin-top:1.5rem;
+    font-weight: bold;
+}
+img.img-message {
+    width: 60px;
+    position: relative;
+    top: 4px;
+}
+img.img-noti {
+    width: 70px;
+    position: relative;
+    top:4px;
+}
+.vertical-line {
+    border-left: 1px solid lightgray;
+    height: 82px;
+    position: relative;
+    left: 140px;
+    bottom: -1rem;
+    margin-bottom: -2rem;
+    float: left;
+}
+.square {
+    height: 50px;
+    width: 292px;
+    background-color: rgb(233, 230, 230);
+    opacity: 0.5;
+    display: inline-block;
+    position:relative;
+    left: 20px;
+    top: 24px;
+    border-radius: 30px;
+}
+.building { 
+    width: 77px;
+    position: relative;
+    left: 149px;
+    bottom: 56px;   
+}
+.company {
+    position: relative;
+    left:222px;
+    bottom: 102px;
+    font-size: 25px;
+    
+}
+.menu {
+    height: 109px;
+}
+.arrow {
+    width:30px;
+    color: #940808;
+}
+
+.rect {
+    width: 2000px;
+    height: 46px;
+    background-color: rgba(219, 217, 217, 0.205);
+    position: relative;
+    top:5px;
+    left: 3px;
+    padding-left: 28px;
+    padding-top: 10px;
+}
+.bread {
+    float: left;
+    position: relative;
+    left: 1419px;
+    bottom: 42px;
+    color:#940808;
+}
+.text-2 {
+    color:#940808;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    font-weight: 900;
+}
+.rect2 {
+    width: 1453px;
+    height: 200px;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+.file1 {
+    width: 100px;
+    margin-top: 2rem;
+    position: relative;
+    left: 45px;
+}
+.subtext-1 {
+    margin-top: 0.5rem;
+    position: relative;
+    left: 70px;
+    color:#940808;
+}
+.horizontal-line {
+    border-top: 4px solid #940808;
+    position: relative;
+    left: 119px;
+    bottom: 36px;
+    width: 190px;
+}
+.subtext-2 {
+    position: relative;
+    bottom: 20px;
+}
+.horizontal-line2 {
+    border-top: 4px solid #d4d0d0;
+    position: relative;
+    left: 309px;
+    bottom: 127px;
+    width: 160px;
+}
+
+.file2 {
+    width: 100px;
+    margin-top: 2rem;
+    position: relative;
+    left: 115px;
+}
+.subtext-3 {
+    margin-top: 0.5rem;
+    position: relative;
+    left: 141px;
+    color:#940808;
+}
+.horizontal-line3 {
+    border-top: 4px solid #d4d0d0;
+    position: relative;
+    left: 191px;
+    bottom: 36px;
+    width: 277px;
+}
+.subtext-4 {
+    position: relative;
+    bottom: 20px;
+    left: 49px;
+}
+.subtext-5 {
+    margin-top: 0.5rem;
+    position: relative;
+    left: 141px;
+    color:#940808;
+}
+.subtext-6 {
+    position: relative;
+    bottom: 20px;
+    left: 74px;
+}
+
+.file3 {
+    width: 100px;
+    margin-top: 2rem;
+    position: relative;
+    left: 109px;
+}
+
+
+.subtext-8 {
+    position: relative;
+    bottom: 20px;
+    left: 49px;
+}
+.subtext-7 {
+    margin-top: 0.5rem;
+    position: relative;
+    left: 136px;
+    color:#940808;
+}
+.rect3 {
+    width: 1453px;
+    height: 500px;
+    margin-left: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 40px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+   
+}
+.line {
+    width: 100px;
+    border-top: 5px solid #940808;
+    border-radius: 10px;
+    position: relative;
+    left: 5px;
+}
+.new {
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-left: 2rem;
+}
+.topic1 {
+  margin-top: 2rem;
+  margin-left: 4rem;
+}
+.scale {
+    transform: scale(2,2);
+    margin-left: 8rem;
+    margin-top: 2rem;
+    color:#940808;;
+}
+.scale2 {
+    transform: scale(2,2);
+    margin-left: 7.5rem;
+}
+.size {
+    font-size: 20px;
+}
+input[name="type"] {
+	accent-color: #940808;
+}
+.scale3 {
+    transform: scale(2,2);
+    margin-left: 7.5rem;
+    margin-top: 2rem;
+    color:#940808;
+}
+.scale4 {
+    transform: scale(2,2);
+    margin-left: 7rem;
+}
+.topic2 {
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+.size2 {
+    font-size: 20px;
+    position:relative;
+    left: 7px;
+}
+.size3 {
+    font-size: 20px;
+    position:relative;
+    left: 7px;
+}
+input[name="type2"] {
+	accent-color: #940808;
+}
+
+
+@media all and (max-width:375px) {
+    div.text > p {
+        text-align:center;
+        font-size:30px;
+        margin-top:1.5rem;
+        font-weight: bold;
+    }
+}
